@@ -1,0 +1,4 @@
+changeT=()-> (
+use T;
+ide=substitute(test,T);
+)

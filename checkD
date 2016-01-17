@@ -1,0 +1,6 @@
+checkD=()-> (
+primcomponents=primaryDecomposition test;
+k=#primcomponents;
+asprimes= apply(k,i-> radical primcomponents_i)
+)
+
