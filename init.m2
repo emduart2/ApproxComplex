@@ -11,5 +11,9 @@ load "/Users/duarte_eliana/Dropbox/UIUC/Research/BasePoints/macau2/reesexample.m
 --load "/Users/duarte_eliana/Dropbox/UIUC/Research/BasePoints/macau2/gCondition.m2"
 
 
+load "~/ResearchRepos/ApproxComplex/zcomplex.m2"
+load "~/ResearchRepos/ApproxComplex/examples.m2"
+load "~/ResearchRepos/ApproxComplex/infotest.m2"
+load "~/ResearchRepos/ApproxComplex/linearsyz.m2"
 
 

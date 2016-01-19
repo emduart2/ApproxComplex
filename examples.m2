@@ -102,6 +102,7 @@ Mp=super basis({i,j-1},R);
 np=numgens source Mp;
 p= random(R^1,R^np)*transpose Mp;
 test=ideal(p*u,p*v,p2,p3);
+return test;
 )
 
 
